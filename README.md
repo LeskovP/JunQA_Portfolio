@@ -1,2 +1,5 @@
-# JunQA_Portfolio
-Junior QA Portfolio
+# MAXIM KOLESNICHENKO
+## Junior QA Portfolio.
+### Checklists
+### Test-Cases
+### Bug-Reports and Enhancements
