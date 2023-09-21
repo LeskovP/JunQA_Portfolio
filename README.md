@@ -1,6 +1,15 @@
 # MAXIM KOLESNICHENKO
 ## Junior QA Portfolio.
 ### Checklists
+- [Поиск по фото (wildberries)](https://docs.google.com/spreadsheets/d/17YLXkJ-v2Yw02rZO6N7kVfwDaJ7YAbtc/edit?usp=sharing&ouid=117765530174237180991&rtpof=true&sd=true)
+- [Увеличение товара в корзине через кнопку “+” (wildberries)](https://docs.google.com/document/d/1ka8sYzDy_GnJ4S2MG8phcWD4wdNYVdceoPYjw8zfSHg/edit?usp=sharing)
+- [Чек-лист, составленный на основе документации к Folks - Фильтрация по id](https://docs.google.com/document/d/1VEEFGMVu1mJcuB4pM-t87ppmJ9nVicCXDGUBadHfjdU/edit?usp=sharing)
+
+  Фрагмет ТЗ Folks:
+
+  Чтобы найти клиентов по списку IDов, скопируйте их (через запятую, пробел или в столбик — неважно) и вставьте в фильтр на столбце ID. Система вернет всех клиентов, ID которых вы перечислили:
+
+  Такая возможность, перечислить запросы через запятую, пробел или в столбик и получить их все - есть только в фильтрации по ID. В строковых полях фильтрация работает так же, как и простой поиск.
 ### Test-Cases
 - [Сортировка товара по цене от максимальной к минимальной (wildberries)](https://docs.google.com/document/d/141FZqUfcFfXXJhh3Ai31rV6eiCevC-sV/edit?usp=sharing&ouid=117765530174237180991&rtpof=true&sd=true)
 - [Поиск товара по названию (wildberries)](https://docs.google.com/document/d/1o7OtOtUxpMFFmT4QtBD7up9TWBwk2oMK/edit?usp=sharing&ouid=117765530174237180991&rtpof=true&sd=true)
