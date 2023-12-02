@@ -18,3 +18,5 @@
 - [Карта Wildberries (mindmap)](https://github.com/LeskovP/JunQA_Portfolio/blob/main/mindmap_WB.png)
 - [State & Transition diagram для заказа на Wildberries](https://github.com/LeskovP/JunQA_Portfolio/blob/main/S%26T_orderWB.png)
 - [Use Case - Поиск товара и формление заказа](https://docs.google.com/document/d/1v-Hwm_bxvT4jKaADgdSU2O1Nw32KvspbPC272zAEFWo/edit?usp=sharing)
+### Postman Collections
+- https://postman.com/orange-shadow-564431/workspace/portfolio
